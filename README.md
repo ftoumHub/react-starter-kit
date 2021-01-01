@@ -4,17 +4,24 @@
 
 ### Your First React Application
 
-> Preparing the Developpent Environment
+1. Preparing the Developpent Environment
 
+2. Creating the Project
+    1. Understanding the Project Structure
+    2. Adding the Bootstrap CSS Framework
+    3. Starting the Development
 
-> Creating the Project
->> Understanding State Data Changes
+3. Replacing the Placeholder Content
 
-> Adding the To-Do Application Features
->> Displaying the To-Do items
+4. Displaying Dynamic Content
+    1. Understanding State Data Changes
 
-> Introducing additional Components
->> Using the child components
+5. Adding the To-Do Application Features
+    1. Displaying the To-Do items
 
-> Adding the finishing touches
->> Managing the visibility of completed tasks
+6. Introducing additional Components
+    1. Using the child components
+
+7. Adding the finishing touches
+    1. Managing the visibility of completed tasks
+    2. Persistently Storing Data
