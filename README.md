@@ -9,7 +9,7 @@
 2. Creating the Project
     1. Understanding the Project Structure
 
-    ![the project structure](./docs/project-structure.png)
+    <img src="docs/project-structure.png" width="300">
 
     2. Adding the Bootstrap CSS Framework
     3. Starting the Development
